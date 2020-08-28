@@ -1,5 +1,13 @@
+body {
+  margin: 0;
+  padding: 0;
+  top: 50px;
+  display: flex;
+  justify-content: center;
+}
+
 .game {
-  height: 400px;
+  height: 500px;
   width: 500px;
   background-color: yellow;
   position: absolute;
